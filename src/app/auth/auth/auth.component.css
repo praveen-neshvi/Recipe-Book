@@ -1,0 +1,25 @@
+.error{
+  color: red;
+}
+
+input.ng-invalid.ng-touched
+{
+  border: 1px solid red;
+}
+
+.loginClass{
+  font-family: 'Mulish', sans-serif;
+  background-color: #1F8A70;
+  padding: 2%;
+  color: white;
+  margin-bottom: 0;
+}
+
+.signUpClass{
+  font-family: 'Mulish', sans-serif;
+  background-color: #0A6EBD;
+  padding: 2%;
+  color: white;
+  margin-bottom: 0;
+}
+

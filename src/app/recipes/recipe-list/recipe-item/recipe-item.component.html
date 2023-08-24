@@ -1,0 +1,15 @@
+<div class="card p-3 mt-2" routerLinkActive="active">
+    <a style="cursor: pointer;"
+    [routerLink]="[index]"
+    class="list-group-item clearfix row">
+        <div class="float-start col-md-8">
+            <h4 class="list-group-item-heading">{{ item.name }}</h4>
+            <p class="list-group-item-text"> {{ item.description }} </p>
+        </div>
+        <span class=" col-md-4">
+          <div class="float-end me-4">
+            <img src="{{ item.imagePath }}" alt="No image found" class="img-responsive" style=" width: 80px; max-height: 80px; object-fit: cover;">
+          </div>
+          </span>
+    </a>
+</div>
