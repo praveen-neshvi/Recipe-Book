@@ -10,15 +10,15 @@ This is a single page web based angular application for a user to add, edit, del
 
 This application contains almost all the necessary features Angular framework provides which are:
 
-    All types of data binding - property binding, event binding, Two way binding |
-    Angular provided directives and custom directives |
-    Services and depedency injection |
-    Routing |
-    Observables, Subjects, Behaviourial Subjects, Pipes uprovided by RxJS |
-    Template Driven Forms and Reactive Forms |
-    HTTP requests to APIs (used Firebase for storage and backend here) |
-    Authentication and Route Protection using Gaurds |
-    Dynamic Components and Modals |
+    All types of data binding - property binding, event binding, Two way binding 
+    Angular provided directives and custom directives 
+    Services and depedency injection 
+    Routing 
+    Observables, Subjects, Behaviourial Subjects, Pipes uprovided by RxJS 
+    Template Driven Forms and Reactive Forms 
+    HTTP requests to APIs (used Firebase for storage and backend here) 
+    Authentication and Route Protection using Gaurds 
+    Dynamic Components and Modals 
     Lazy Loading and preloading techniques
     
 ## Development server
