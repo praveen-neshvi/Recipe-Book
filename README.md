@@ -1,7 +1,20 @@
 # RecipeBook
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.5.
+This is a single page web based angular application for a user to add, edit, delete and all in all manage their cooking recipes. The user also can make use of the shopping list feature of this application to keep track of what igredients they need to prepare the meal.
 
+This application contains almost all the necessary features Angular framework provides which are:
+    All types of data binding - property binding, event binding, Two way binding
+    Angular provided directives and custom directives
+    Services and depedency injection
+    Routing
+    Observables, Subjects, Behaviourial Subjects, Pipes uprovided by RxJS
+    Template Driven Forms and Reactive Forms
+    HTTP requests to APIs (used Firebase for storage and backend here)
+    Authentication and Route Protection using Gaurds
+    Dynamic Components and Modals
+    Lazy Loading and preloading techniques
+    
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
